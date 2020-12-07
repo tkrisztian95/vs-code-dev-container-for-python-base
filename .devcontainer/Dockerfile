@@ -1,7 +1,5 @@
 FROM python:3
 
-FROM python:3
-
 # Install pylint
 RUN pip install pylint
 
